@@ -1,0 +1,16 @@
+
+########################################################################
+#      Date:           Mon 09 Oct 2023 02:50:14 AM PDT
+#    Job ID:           2385152.v-qsvr-1.aidevcloud
+#      User:           u204867
+# Resources:           cput=75:00:00,neednodes=1:fpga_compile:ppn=2,nodes=1:fpga_compile:ppn=2,walltime=06:00:00
+########################################################################
+
+Welcome to Learn Intel Python
+Execution_time in  micro seconds  : 3.5762786865234375
+
+########################################################################
+# End of output for job 2385152.v-qsvr-1.aidevcloud
+# Date: Mon 09 Oct 2023 02:50:20 AM PDT
+########################################################################
+

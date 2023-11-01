@@ -1,0 +1,16 @@
+
+########################################################################
+#      Date:           Mon Oct  9 02:00:59 PDT 2023
+#    Job ID:           2385107.v-qsvr-1.aidevcloud
+#      User:           u204867
+# Resources:           cput=75:00:00,neednodes=1:fpga_runtime:stratix10:ppn=2,nodes=1:fpga_runtime:stratix10:ppn=2,walltime=06:00:00
+########################################################################
+
+Welcome to Learn Intel Python
+Execution_time in  micro seconds  : 8.58306884765625
+
+########################################################################
+# End of output for job 2385107.v-qsvr-1.aidevcloud
+# Date: Mon Oct  9 02:01:05 PDT 2023
+########################################################################
+

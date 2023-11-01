@@ -1,0 +1,2 @@
+/var/spool/torque/mom_priv/jobs/2385152.v-qsvr-1.aidevcloud.SC: line 3: fg: no job control
+/usr/sbin/kill-illegit-procs: line 86: kill: (1748729) - No such process
